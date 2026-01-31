@@ -1,0 +1,24 @@
+# IMDb Movies Data Analysis
+
+## Objective
+To analyze IMDb movie data using SQL and extract insights on movie ratings, genres, and popularity.
+
+## Dataset
+- Source: IMDb Movies Dataset
+- Data includes movie title, genre, rating, votes, and year
+
+## Key Analysis Performed
+- Top-rated movies analysis
+- Genre-wise movie distribution
+- Average ratings by genre
+- Filtering movies based on rating and votes
+
+## SQL Concepts Used
+- SELECT, WHERE
+- GROUP BY, HAVING
+- ORDER BY
+- Subqueries
+- Aggregate functions
+
+## Tools Used
+- MySQL
