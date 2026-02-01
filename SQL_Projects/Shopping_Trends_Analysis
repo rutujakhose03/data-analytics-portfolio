@@ -1,0 +1,24 @@
+# Shopping Trends Analysis (Client Project)
+
+## Objective
+To analyze U.S. shopping trends data using SQL and identify customer purchasing patterns and discount opportunities to improve sales.
+
+## Dataset
+- U.S. Shopping Trends Dataset
+- Includes customer demographics, purchase details, discounts, and product categories
+
+## Key Analysis Performed
+- Category-wise purchase analysis
+- Impact of discounts on customer purchases
+- Customer behavior analysis based on age and gender
+- Identification of product categories requiring discounts
+
+## SQL Concepts Used
+- SELECT, WHERE
+- GROUP BY, HAVING
+- CASE statements
+- Aggregate functions
+- Subqueries
+
+## Tools Used
+- MySQL
