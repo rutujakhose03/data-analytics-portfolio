@@ -1,0 +1,21 @@
+# HR Analytics Dashboard (Excel)
+
+## Objective
+To analyze HR data and build an interactive dashboard to track workforce metrics and support HR decision-making.
+
+## Dataset
+- Employee dataset containing department, age, attrition, and headcount information
+
+## Key Metrics Analyzed
+- Total headcount
+- Attrition rate
+- Department-wise employee distribution
+- Average employee age
+
+## Dashboard Features
+- Interactive Pivot Tables
+- Charts and slicers for department-level insights
+- Visual representation of attrition trends
+
+## Tools Used
+- Microsoft Excel
