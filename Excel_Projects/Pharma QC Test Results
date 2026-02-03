@@ -1,0 +1,33 @@
+# Pharma QC Test Results – Excel Dashboard
+
+## 📌 Project Overview
+This project analyzes pharmaceutical Quality Control (QC) test results using Microsoft Excel.  
+The dashboard helps monitor batch quality, test compliance, and identify deviations.
+
+## 🧪 QC Parameters Analyzed
+- Assay (%)
+- Dissolution (%)
+- Impurities
+- Batch Status (Pass/Fail)
+- Test-wise Compliance
+- Trend Analysis
+
+## 📊 Dashboard Features
+- Interactive charts & pivot tables
+- Batch-wise QC status
+- Test parameter comparison
+- Conditional formatting for deviations
+- Filters for batch, test type, and date
+
+## 🛠 Tools Used
+- Microsoft Excel
+- Pivot Tables & Pivot Charts
+- Excel Formulas (IF, AVERAGE, COUNTIF)
+- Conditional Formatting
+
+## 🎯 Business / Pharma Use Case
+- Helps QC teams identify out-of-spec batches
+- Improves compliance monitoring
+- Supports audit and reporting requirements
+
+
